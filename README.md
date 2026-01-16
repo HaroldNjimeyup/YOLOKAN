@@ -1,8 +1,4 @@
-Voici une proposition de `README.md` complet, professionnel et visuel pour votre projet **YOLOKAN-11**, basé sur les détails de votre recherche et de votre architecture.
-
----
-
-# 🩺 YOLOKAN-11 : Détection Intelligente des Parasites du Paludisme
+# YOLOKAN-11 : Détection Intelligente des Parasites du Paludisme
 
 ## 📌 Présentation du Projet
 
